@@ -1,0 +1,1 @@
+The book can be found here: [Learn Ruby the Hard Way](http://ruby.learncodethehardway.org/book/).
